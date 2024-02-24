@@ -1,4 +1,4 @@
-# vibe-lave-repo-7
+# vibe-lab-repo-7
 0371 Копылов К.А.
 
 ![alt text](./Screenshot_1.png)
